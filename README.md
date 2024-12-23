@@ -12,4 +12,4 @@ Se você se identificou, venha fazer parte do nosso time :rocket:
 
 ## Escolha o seu desafio
 
-#### [Desafio para Mobile](https://github.com/wlconsultings/vagas/tree/master/mobile)
+#### [Desafio para Mobile](https://github.com/WL-Consultings/challenges/tree/main/mobile)
