@@ -6,7 +6,6 @@
 * Forma de organizar o código
 * Segurança
 * Boas práticas
-* Conhecimento em Node.js e tecnologias utilizadas
 
 Boa sorte e obrigado por participar!
 
