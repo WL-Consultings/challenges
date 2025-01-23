@@ -21,7 +21,7 @@ Boa sorte e obrigado por participar!
 
 5. Crie um arquivo README que explique como executar o projeto, e quaisquer scripts necessários.
 
-6. A aplicação deve possuir um script que popule o Banco de Dados inicialmente com conectores fictícios para demonstração.
+6. A aplicação deve possuir um script que popule o Banco de Dados inicialmente com dados fictícios para demonstração.
 
 ## 🎁 Bônus
 
